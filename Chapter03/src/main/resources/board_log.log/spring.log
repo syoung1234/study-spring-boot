@@ -1,0 +1,94 @@
+2022-10-19 21:56:15.804  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 21:56:15.804  INFO 21606 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 21:56:15.804  INFO 21606 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 21:56:15.808  INFO 21606 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 21:56:15.808  INFO 21606 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 65 ms
+2022-10-19 21:56:15.841  INFO 21606 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-10-19 21:56:15.844  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 21:56:15.846  WARN 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2022-10-19 21:56:15.846 ERROR 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2022-10-19 21:56:15.846  INFO 21606 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-10-19 21:56:18.270  INFO 21606 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2022-10-19 21:56:18.275  INFO 21606 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-19 21:56:18.366  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 21:56:18.367  INFO 21606 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 21:56:18.367  INFO 21606 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 21:56:18.370  INFO 21606 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 21:56:18.370  INFO 21606 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 50 ms
+2022-10-19 21:56:18.394  INFO 21606 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-10-19 21:56:18.397  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 21:56:18.399  WARN 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2022-10-19 21:56:18.399 ERROR 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2022-10-19 21:56:18.399  INFO 21606 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-10-19 21:56:19.816  INFO 21606 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-10-19 21:56:19.822  INFO 21606 --- [Thread-11] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-19 21:56:19.905  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 21:56:19.905  INFO 21606 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 21:56:19.905  INFO 21606 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 21:56:19.908  INFO 21606 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 21:56:19.908  INFO 21606 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 47 ms
+2022-10-19 21:56:19.929  INFO 21606 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-10-19 21:56:19.933  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 21:56:19.935  WARN 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2022-10-19 21:56:19.935 ERROR 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2022-10-19 21:56:19.935  INFO 21606 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-10-19 21:56:21.348  INFO 21606 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-10-19 21:56:21.353  INFO 21606 --- [Thread-15] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-19 21:56:21.435  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 21:56:21.435  INFO 21606 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 21:56:21.435  INFO 21606 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 21:56:21.438  INFO 21606 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 21:56:21.438  INFO 21606 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 43 ms
+2022-10-19 21:56:21.456  INFO 21606 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-10-19 21:56:21.459  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 21:56:21.460  WARN 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2022-10-19 21:56:21.460 ERROR 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2022-10-19 21:56:21.461  INFO 21606 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-10-19 21:56:22.878  INFO 21606 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-10-19 21:56:22.882  INFO 21606 --- [Thread-19] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-19 21:56:22.963  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 21:56:22.963  INFO 21606 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 21:56:22.963  INFO 21606 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 21:56:22.966  INFO 21606 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 21:56:22.966  INFO 21606 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 46 ms
+2022-10-19 21:56:22.987  INFO 21606 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-10-19 21:56:22.989  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 21:56:22.991  WARN 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2022-10-19 21:56:22.991 ERROR 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2022-10-19 21:56:22.991  INFO 21606 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-10-19 21:56:24.412  INFO 21606 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-10-19 21:56:24.416  INFO 21606 --- [Thread-23] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-19 21:56:24.499  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 21:56:24.499  INFO 21606 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 21:56:24.499  INFO 21606 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 21:56:24.502  INFO 21606 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 21:56:24.502  INFO 21606 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 43 ms
+2022-10-19 21:56:24.519  INFO 21606 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-10-19 21:56:24.521  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 21:56:24.522  WARN 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2022-10-19 21:56:24.522 ERROR 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2022-10-19 21:56:24.522  INFO 21606 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-10-19 21:56:25.937  INFO 21606 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-10-19 21:56:25.940  INFO 21606 --- [Thread-27] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-19 21:56:26.010  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 21:56:26.011  INFO 21606 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 21:56:26.011  INFO 21606 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 21:56:26.013  INFO 21606 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 21:56:26.013  INFO 21606 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 40 ms
+2022-10-19 21:56:26.030  INFO 21606 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-10-19 21:56:26.033  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 21:56:26.034  WARN 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2022-10-19 21:56:26.034 ERROR 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2022-10-19 21:56:26.035  INFO 21606 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-10-19 21:56:28.453  INFO 21606 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-10-19 21:56:28.456  INFO 21606 --- [Thread-31] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-19 21:56:28.525  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 21:56:28.526  INFO 21606 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 21:56:28.526  INFO 21606 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 21:56:28.528  INFO 21606 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 21:56:28.529  INFO 21606 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 39 ms
+2022-10-19 21:56:28.545  INFO 21606 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-10-19 21:56:28.547  INFO 21606 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 21:56:28.548  WARN 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2022-10-19 21:56:28.548 ERROR 21606 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2022-10-19 21:56:28.548  INFO 21606 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
